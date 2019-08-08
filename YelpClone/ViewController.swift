@@ -18,3 +18,7 @@ class ViewController: UIViewController {
 
 }
 
+
+// TODO: create a table view that shows at minimum the name of the business
+// TODO: add UI so the user is able to change the zipcode search
+// TODO: add a search bar so the user is able to search for a particular type of business
